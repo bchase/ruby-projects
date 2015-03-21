@@ -4,8 +4,8 @@
 
 You want a Ruby library that allows you to:
 
-1. tweet from your Twitter handle
-2. view tweets for a given Twitter handle
+1. view tweets for a given Twitter handle
+2. tweet from your Twitter handle
 
 For some reason, you also decide that you want to write this library yourself.
 
@@ -14,8 +14,8 @@ For some reason, you also decide that you want to write this library yourself.
 
 Implement your solution as:
 
-`Twitter::User#tweets`
-`Twitter::Me#tweet(tweet)`
+1. `Twitter::User#tweets`
+2. `Twitter::Me#tweet(tweet)`
 
 
 ## Testing
