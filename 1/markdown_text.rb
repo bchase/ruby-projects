@@ -29,5 +29,3 @@ class MarkdownText < String
     end
   end
 end
-
-# TODO tk # :read !tail -1 ~/pry_history
